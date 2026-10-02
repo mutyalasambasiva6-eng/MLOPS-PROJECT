@@ -13,3 +13,5 @@ mlruns/
 mlflow.db
 
 models/*.pkl
+
+notebooks/*.pkl
